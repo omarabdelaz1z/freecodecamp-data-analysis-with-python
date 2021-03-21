@@ -27,10 +27,15 @@
 
 #### *Navigate through cells* :arrow_up_down:
 
-- arrow up​ :arrow_up:
-- arrow down :arrow_down:
+- press arrow up​ :arrow_up:
+- press arrow down :arrow_down:
 
 #### *Execute a cell* :leftwards_arrow_with_hook:
 
-- press `shift + enter` to execute the current cell *and advance to the next cell
+- press `shift + enter` to execute the current cell *and advance to the next cell*
 - press `Ctrl + enter` to execute the current cell *only*
+
+####  *Interrupt Execution*
+- press `I` two times
+#### *Reset all variables (Restart Kernel)*
+- press `0` two times
