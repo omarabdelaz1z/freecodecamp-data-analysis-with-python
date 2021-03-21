@@ -10,6 +10,10 @@
 - press `d` two times on the current cell
 - press `x` on the current cell
 
+### Undo a deleted cell 
+
+- press `z`
+
 #### *Change mode cell*
 
 - press `r` to change current mode to *Raw NBConvert*
@@ -39,3 +43,7 @@
 - press `I` two times
 #### *Reset all variables (Restart Kernel)*
 - press `0` two times
+
+### Open PyDoc of a Function
+
+- Press `Shift + Tab` 
